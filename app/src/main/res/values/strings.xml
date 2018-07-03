@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstNameLastName_AndroidCodeChallenge</string>
+    <string name="app_label">Redit Posts</string>
+    <string name="search_hint">Search</string>
+    <string name="nullValue">value not provided</string>
+</resources>
